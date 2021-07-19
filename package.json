@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rgp",
+  "version": "1.0.0",
+  "description": "\"Create a RGP game using OOP and TDD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottskinn/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottskinn/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/scottskinn/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
