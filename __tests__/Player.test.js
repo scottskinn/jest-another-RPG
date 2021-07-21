@@ -16,4 +16,14 @@ test('creates a player object', () => {
     expect(player.inventory).toEqual(
         expect.arrayContaining([expect.any(Object)])
     );
-})
+});
+
+
+
+
+
+// test("gets player's health value", () => {
+//     const player = new Player('Dave');
+
+//     expect(player.getHealth()).toEqual(expect.stringContaining(player.health.toString()));
+// })
